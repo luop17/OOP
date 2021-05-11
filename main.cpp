@@ -17,6 +17,7 @@ void doMotion(WhatCanMotion* obj) {
 
 int main()
 {
+  //进行有必要的注释，是程序员必备的技能
   std::string name;
   std::cin >> name;
   Alien alien(name);
